@@ -1,0 +1,15 @@
+#ignore everything
+*libraries
+
+#then don't ignore these files
+
+!src
+!src/**
+
+!.gitignore
+!*.txt
+!.md
+
+#Mac hidden files .DS_Store
+
+# git rm -r --cached .
