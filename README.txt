@@ -3,36 +3,34 @@ Project names: L.A.X. ; A.R.L.
 			    :robot luggage R.L.
 Description: 
 Job:
-A robot that follows a person around to carry their books
-This robot can follows the individual based on the color of their cloths.
-The robot will make sounds when it’s out of range
+-A robot that follows a person around to carry their books
+-This robot can follows the individual based on the color of their cloths.
+-The robot will make sounds when it’s out of range
 -the robot will not make any sounds when you're in range
 - the robot will make sounds when your out of range
-The robot will be the size of a luggage.
-The wheels will be 5 inches in order to go over small rocks
-THe robot will be used in flat ground area
-
-?what is the tare
+-The robot will be the size of a luggage.
+-The wheels will be 5 inches in order to go over small rocks
+-THe robot will be used in flat ground area
 
 
  What we need(Hardware):
-Sensory to follow the individual
-Motors that can move in different directions
-Weight requirement
+-Sensory to follow the individual
+-Motors that can move in different directions
+-Weight requirement
 
 
 How
 Software:
-Program need to have an avoidance
-Program has to have a recognition
-Program has to be able to control motors
-Program can change modes(follow, stay, go)
+-Program need to have an avoidance
+-Program has to have a recognition
+-Program has to be able to control motors
+-Program can change modes(follow, stay, go)
 
 
 Communication:
-Switch for an on and off
-Robot can communicate through mobile app
-Robot can indicate when battery is low via sound
+-Switch for an on and off
+-Robot can communicate through mobile app
+-Robot can indicate when battery is low via sound
 
 A.R.L.
 (Autonomous Robotic Luggage)
@@ -50,23 +48,23 @@ The A.R.L can come in different sizes. Our example size will be 22” x 14” X 
 
 Points
 Features
-It can follow the user.
-Go to a predetermined location.
-It will contact the user its where abouts.
-It shows location where it is at.
-Comes with a companion application.
-It will be able to avoid obstacles.
+-It can follow the user.
+-Go to a predetermined location.
+-It will contact the user its where abouts.
+-It shows location where it is at.
+-Comes with a companion application.
+-It will be able to avoid obstacles.
 
 Modes
-Follow Mode
-Go To Mode
-Charge Mode
-Hardware
-Pixie Camera
-Ultrasonic Sensor
-Lightweight metal chassis
-Vertical-moving wheels
-Strong enough motor
+-Follow Mode
+-Go To Mode
+-Charge Mode
+-Hardware
+-Pixie Camera
+-Ultrasonic Sensor
+-Lightweight metal chassis
+-Vertical-moving wheels
+-Strong enough motor
 
 
 
